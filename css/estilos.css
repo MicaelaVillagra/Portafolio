@@ -1,0 +1,13 @@
+.mi-avatar {
+    width: 75%;
+    margin: 25px auto;
+}
+
+.card {
+    transition: box-shadow 0.15s ease-in;
+    box-shadow: none;
+}
+
+.card:hover {
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
